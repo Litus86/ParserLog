@@ -1,0 +1,6 @@
+C:\Users\Litas\source\repos\ParserLog\ParserLog\bin\Release\ParserLog.exe.config
+C:\Users\Litas\source\repos\ParserLog\ParserLog\bin\Release\ParserLog.exe
+C:\Users\Litas\source\repos\ParserLog\ParserLog\bin\Release\ParserLog.pdb
+C:\Users\Litas\source\repos\ParserLog\ParserLog\obj\Release\ParserLog.csproj.CoreCompileInputs.cache
+C:\Users\Litas\source\repos\ParserLog\ParserLog\obj\Release\ParserLog.exe
+C:\Users\Litas\source\repos\ParserLog\ParserLog\obj\Release\ParserLog.pdb
